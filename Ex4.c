@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main ()
 {
+    /*karen itzel  Garduño Maritano*/
+    
     float numerodepersonas, numerodealimentos, porciones;
     printf("\n\n Programa 1");
     printf("\n\n Dame el numero de personas");
